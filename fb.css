@@ -1,0 +1,172 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+}
+.logo
+{
+    width: 50%;
+    padding-top: 16px;
+    float:left;
+}
+.login{
+    padding-top: 8px;
+    width: 50%;
+    float:left;
+}
+.logotext{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: solid;
+    font-size: xxx-large;
+    margin-left: 200px;
+}
+.login-controls{
+    margin-left: 20px;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+
+}
+.forgot{
+    color: #9cb4d8;
+    font-family: sans-serif;
+    text-decoration: solid;
+    font-size: smaller;
+}
+.login-Button{
+    background-color:#4267b2;
+    border-color: #29487d;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: 0.5px;
+}
+.login-Button:hover{
+    background-color: #29487d;
+}
+.body{
+ background: linear-gradient(#fff,#D3D8E8);
+width: 100%;
+ height: 510px;
+}
+.para{
+    color:black;
+    font-family: sans-serif;
+    text-decoration: solid;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 210px;
+    font-family: sans-serif;
+
+
+}
+.left-sect{
+    padding-top: 10px;
+    margin-left: 0%;
+    width: 50%;
+
+    float:left
+}
+.Right-sect{
+    
+    float: left;
+    width: 50%;
+    
+}
+.head1{
+    font-family: sans-serif;
+    color: black;
+    padding: 0%;
+    margin-bottom: 15px;
+}
+.head2{
+    font-family: sans-serif;
+    color: black;
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 10px;
+}
+.password{
+    height: 22px;
+    margin-top: 10px;
+width: 275px;
+border-radius: 3px;
+border-width: 1px;
+border-color: rgba(128, 128, 128, 0.498);
+}
+.first{
+    height: 22px;
+    border-radius: 3px;
+    border-width: 1px;
+border-color: rgba(128, 128, 128, 0.498);
+}
+.surname{
+    height: 22px;
+width: 100px;
+border-radius: 3px;
+border-width: 1px;
+border-color: rgba(128, 128, 128, 0.498);
+}
+.email{
+    height: 22px;
+    margin-top: 10px;
+    width: 275px;
+    border-radius: 3px;
+    border-width: 1px;
+border-color: rgba(128, 128, 128, 0.498);
+}
+.birthday{
+    margin-top: 15px;
+    font-family: sans-serif;
+    color: gray;
+    font-weight: 600;
+    font-size: small;
+    border-radius: 3px;
+    border-width: 1px;
+border-color: rgba(128, 128, 128, 0.498);
+padding: 0%;
+margin: 0%;
+margin-top: 10px;
+;
+}
+.day{
+margin-top: 5px;
+width: 50px;
+}
+.month{
+    margin-top: 5px;
+    width: 70px;
+}
+.year{
+    margin-top: 5px;
+    width: 70px;
+}
+.gender{
+    font-family: sans-serif;
+    font-size: small;
+}
+.terms{
+    color: rgba(150, 147, 147, 0.993);
+    font-size: 10px;
+}
+.signup-Button{
+    background-color: rgba(22, 152, 22, 0.776);
+    width: 200px;
+    height: 30px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    cursor: pointer;
+}
+.signup-Button:hover{
+    background-color: rgb(11, 81, 11);
+}
